@@ -21,6 +21,7 @@ The probability is constant since each variable has equal chances of being the o
 Ref: https://corporatefinanceinstitute.com/resources/knowledge/other/uniform-distribution/
 
 
-ပထမဦးဆုံးကတော့  ဒီproblem ကို မသိဘူး။ မေးခွန်းကိုကော နားမလည်ဘူး။
+ပထမဦးဆုံးကတော့  ဒီproblem ကို မသိဘူး။ မေးခွန်းကိုကော နားမလည်ဘူး။ အရင် အဖြေကို ရှာလိုက်တယ်။ အဖြေကို ဖတ်ကြည့်ရင်း loop invariants ဆိုတဲ့ term အသစ်ကို သိလိုက်တယ်။
+enumerate ကိုလည်း သိပ်မသုံးဖူးတော့ ပြန်ပြီးတော့ enumerate ရဲ့ အလုပ်လုပ်ပုံကို ရှာခဲ့တယ်။
 
 """
