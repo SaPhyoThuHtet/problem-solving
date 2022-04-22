@@ -6,6 +6,7 @@ the purpose of this leetcode question is not to pass all the test. it is for und
 
 So please do not post any answers using built-in hashset/hashmap, or just use a single array. Ask yourself, are you going to do the same stupid thing if this is the question you are asked in a real interview?
 ***
+အဖြေကိုတော့ ဒီsolution ကနေပဲ ကိုးကားလိုက်ပါတယ်။ https://leetcode.com/problems/design-hashset/discuss/768659/Python-Easy-Multiplicative-Hash-explained
 
 
 ### Tree
