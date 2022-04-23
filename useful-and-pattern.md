@@ -18,7 +18,8 @@ A hash function is any function that can be used to map data of arbitrary size t
 
 **Hashing**
 
-Hashing is the process of transforming any given key or a string of characters into another value. This is usually represented by a shorter, fixed-length value or key that represents and makes it easier to find or employ the original string. The most popular use for hashing is the implementation of hash tables. (https://searchsqlserver.techtarget.com/definition/hashing#:~:text=Hashing%20is%20the%20process%20of,the%20implementation%20of%20hash%20tables.)
+- Hashing is the process of transforming any given key or a string of characters into another value. This is usually represented by a shorter, fixed-length value or key that represents and makes it easier to find or employ the original string. The most popular use for hashing is the implementation of hash tables. (https://searchsqlserver.techtarget.com/definition/hashing#:~:text=Hashing%20is%20the%20process%20of,the%20implementation%20of%20hash%20tables.)
+- Digital Signature တွေမှာလည်း အသုံးပြုတယ်။
 
 
 ### Tree
