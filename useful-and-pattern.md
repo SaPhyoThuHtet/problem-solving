@@ -8,6 +8,8 @@ So please do not post any answers using built-in hashset/hashmap, or just use a 
 ***
 အဖြေကိုတော့ ဒီsolution ကနေပဲ ကိုးကားလိုက်ပါတယ်။ https://leetcode.com/problems/design-hashset/discuss/768659/Python-Easy-Multiplicative-Hash-explained
 
+- Hashing ကိုသိထားရင် တခြား design question တွေဖြစ်တဲ့ TinyUrl ဖန်တီးခိုင်းတာမျိုးမှာ အသုံးဝင်တယ်။
+
 
 ### Tree
 
