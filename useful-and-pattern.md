@@ -10,6 +10,11 @@ So please do not post any answers using built-in hashset/hashmap, or just use a 
 
 - Hashing ကိုသိထားရင် တခြား design question တွေဖြစ်တဲ့ TinyUrl ဖန်တီးခိုင်းတာမျိုးမှာ အသုံးဝင်တယ်။
 
+### Hashing Knowledge
+
+**Hash Function**
+A hash function is any function that can be used to map data of arbitrary size to fixed-size values. The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. The values are usually used to index a fixed-size table called a hash table. (Wiki)
+
 
 ### Tree
 
