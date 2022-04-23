@@ -13,7 +13,12 @@ So please do not post any answers using built-in hashset/hashmap, or just use a 
 ### Hashing Knowledge
 
 **Hash Function**
+
 A hash function is any function that can be used to map data of arbitrary size to fixed-size values. The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. The values are usually used to index a fixed-size table called a hash table. (Wiki)
+
+**Hashing**
+
+Hashing is the process of transforming any given key or a string of characters into another value. This is usually represented by a shorter, fixed-length value or key that represents and makes it easier to find or employ the original string. The most popular use for hashing is the implementation of hash tables.
 
 
 ### Tree
