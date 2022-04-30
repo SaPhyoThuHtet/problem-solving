@@ -1,3 +1,5 @@
+### Array
+
 ### Hash Set, Hash Map
 
 - အသုံးဝင်တာ တစ်ခုက Leet Code Questions နှစ်ခု မှာ Hash Set နဲ့ Hash Map ကို built-in hash-set hash-map မသုံးပဲ နဲ့ ရေးခိုင်းတာပါ။  ဒီquestions တွေကတော့ design questions တွေဖြစ်ပါတယ်။ ပထမကတော့ လွယ်တာပေါ့  array နဲ့ ချတယ်။ But Discussion က ခုစာသားလေးကိုတွေ့တော့ သေချာ တွေးပြီးမှပဲ ရေးမယ်လို့ စဥ်းစားမိတယ်။
