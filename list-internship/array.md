@@ -1,5 +1,5 @@
 
 
-No|Problem| Type| Note
-| -------------| ------------- | ------------- |------------- |
-[1. 10-Fold Cross Validation](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe1)| Seperate the data into 10 folds for Cross Validation| Bash
+No|Problem| Type| Note| Any Reference
+| -------------| ------------- | ------------- |------------- |------------- |
+1|[Max Area of Island] (https://leetcode.com/problems/max-area-of-island/)| Medium|https://www.youtube.com/watch?v=W8VuDt0eb5c
